@@ -23,7 +23,7 @@ function App() {
 
     <Card title="anri" content="anris uyvars rugby"/>
      <Card  title={"giorgi"} content={"telefoni dade"} />
-      <Card />
+      
    </div>
   
   )
